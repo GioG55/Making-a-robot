@@ -1,2 +1,2 @@
 # Making-a-robot
-Software in robot design
+software for robot development
